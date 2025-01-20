@@ -1,0 +1,13 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+.container .question {
+    font-size: 18px;
+}
+
+.container .response {
+    font-size: 19px;
+}
